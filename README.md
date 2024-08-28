@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Falguni Sharma</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h1 align="center">Hello 👋, Falguni Sharma here...</h1>
+<h3 align="center">- A passionate MERN stack developer from India !</h3>
 
-![image](https://github.com/user-attachments/assets/2bf00a33-4371-4bb6-b65c-89902ec013eb)
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/a69ef1e4a173201181c22ac940c8b17935229d4d45ac5276631cbf4ba3d21db4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falguneeshrma&label=Profile%20views&color=0e75b6&style=flat" alt="falguneeshrma" /> </p>
 
-- 🌱 I’m currently learning **Delta 2.0**
+- 🌱 I’m currently learning **Web Development with Delta 2.0**
 
 - 📫 How to reach me **falguneeshrma2005@gmail.com**
 
-- ⚡ Fun fact **I can turn my imagination into code**
+- ⚡ Fun fact **I can turn my imagination into code 🪄💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=falguneeshrma&show_icons=true&locale=en" alt="falguneeshrma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=falguneeshrma&" alt="falguneeshrma" /></p>
-
-
