@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Falguni Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/c71d0431-c8e3-423a-bca5-79437f9913d9)">
+<img align="right" alt="coding" height = "100" width="100" src[="![image](https://github.com/user-attachments/assets/a67e1e75-5469-477c-bdc7-eea6b0a2b31c)](https://images.app.goo.gl/sYqYy7VK5vfJVEj37)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falguneeshrma&label=Profile%20views&color=0e75b6&style=flat" alt="falguneeshrma" /> </p>
 
