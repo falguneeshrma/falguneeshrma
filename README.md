@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falguneeshrma&label=Profile%20views&color=0e75b6&style=flat" alt="falguneeshrma" /> </p>
 
-- 🌱 I’m currently learning **Web Development with Delta 2.0**
 
 - 📫 How to reach me **falguneeshrma2005@gmail.com**
 
