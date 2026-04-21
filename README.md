@@ -1,7 +1,8 @@
 <h2> Hi, I'm Falguni Sharma! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Student at <a href="http://www.unb.br">Savitribai Phule Pune University</a> | 9+ CGPA | Absolute Learner
-</br>Worked as Software Engineering Intern (Full Stack) @ <a href="https://www.vislona.com">Vislona</a> | Building scalable web apps | Curious about AI & systems
+</br>
+<p><em>Student at <a href="http://www.unb.br">Savitribai Phule Pune University</a> | 9+ CGPA | Absolute Learner</em><br>
+</br>Software Engineering Intern (Full Stack) @ <a href="https://www.vislona.com">Vislona</a> | Building scalable web apps | Curious about AI & systems
 </em></p>
 
 [![Email Badge](https://img.shields.io/badge/Falguni_Sharma-falguneeshrma2005@gmail.com-blue?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:falguneeshrma2005@gmail.com)   
